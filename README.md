@@ -17,6 +17,10 @@ conda env create -f environment.yml
 conda activate agenticfp
 ```
 
+## Data
+
+The data is located at https://bio2vec.net/data/mowl/go-agent-data.tar.gz
+There you can find the initial MLP models plus the refined predictions.
 
 ## Usage
 
