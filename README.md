@@ -19,7 +19,9 @@ conda activate agenticfp
 
 ## Data
 
-The data is located at https://bio2vec.net/data/mowl/go-agent-data.tar.gz
+The data can be found at this Zenodo repository: https://zenodo.org/records/18196623
+Alternatively, the data is also located at https://bio2vec.net/data/mowl/go-agent-data.tar.gz
+
 There you can find the initial MLP models plus the refined predictions.
 
 ## Usage
